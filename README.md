@@ -6,7 +6,7 @@ Alongside our paper published in ToC, we provided a lightweight “snack” util
 
 We’ve open-sourced this operator because we recognize that others face the same challenge, and we’d rather not reinvent the wheel. Some users suggested adding JIT-parallelism, which we tried, but it didn’t yield significant gains on our local machines. For best results, use hvpy.py; if you’re targeting architectures such as AMD Genoa or Venice, switch to hvpy_parallel.py.
 
-
+some Examples
 <p align="center">
   <img src="https://github.com/user-attachments/assets/7ce538a3-d9be-4554-9dd6-a2fba9ff5a7c" alt="blurred" width="120" />
   <img src="https://github.com/user-attachments/assets/fde6a2ab-25b8-427f-b3bd-67c47ced76a2" alt="07_threshold" width="120" />
